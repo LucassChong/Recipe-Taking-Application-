@@ -1,0 +1,100 @@
+{
+  "timestamp": "May 2, 2026 10:51:41",
+  "data": {
+    "recipes": [
+      {
+        "rating": 4.9,
+        "calories": 650,
+        "prep_time": "45 mins",
+        "title": "Nasi Lemak",
+        "ingredients": "Rice, Coconut Milk, Pandan, Anchovies, Peanuts, Chili, Egg",
+        "instructions": "1. Cook rice with coconut milk and pandan.\n2. Fry anchovies and peanuts.\n3. Prepare sambal paste.\n4. Serve all together.",
+        "description": "Fragrant coconut rice served with spicy sambal, anchovies, peanuts, and boiled egg.",
+        "image_url": "https://images.getrecipekit.com/20231116072724-c2-a9andy_cooks_thumbnails_nasi_lemak_01.jpg?aspect_ratio=4:3&quality=90&",
+        "id": 1
+      },
+      {
+        "rating": 4.8,
+        "calories": 450,
+        "prep_time": "4 hrs",
+        "title": "Beef Rendang",
+        "ingredients": "Beef, Coconut Milk, Lemongrass, Galangal, Turmeric, Kerisik",
+        "instructions": "1. Blend spices into a paste.\n2. Sauté paste and add beef.\n3. Add coconut milk and simmer.\n4. Cook until liquid is absorbed.",
+        "description": "Slow-cooked beef in a rich, spicy coconut milk and spice reduction.",
+        "image_url": "https://soyummyrecipes.com/wp-content/uploads/2020/04/Beef-rendang-1-1.jpg",
+        "id": 2
+      },
+      {
+        "rating": 4.7,
+        "calories": 400,
+        "prep_time": "30 mins",
+        "title": "Chicken Satay",
+        "ingredients": "Chicken, Turmeric, Peanuts, Lemongrass, Sugar",
+        "instructions": "1. Marinate chicken.\n2. Skewer the meat.\n3. Grill until charred.\n4. Serve with spicy peanut sauce.",
+        "description": "Grilled marinated chicken skewers served with peanut sauce.",
+        "image_url": "https://takestwoeggs.com/wp-content/uploads/2025/04/Thai-Chicken-Satay-1-500x500.jpg",
+        "id": 3
+      },
+      {
+        "rating": 4.5,
+        "calories": 740,
+        "prep_time": "15 mins",
+        "title": "Char Kway Teow",
+        "ingredients": "Flat Noodles, Prawns, Sausage, Eggs, Beansprouts, Soy Sauce",
+        "instructions": "1. Heat wok with lard.\n2. Fry garlic and prawns.\n3. Add noodles and sauces.\n4. Toss in sprouts and egg.",
+        "description": "Wok-fried flat rice noodles with prawns and Chinese sausage.",
+        "image_url": "https://noobcook.com/wp-content/uploads/2014/03/charkwayteow2.jpg",
+        "id": 4
+      },
+      {
+        "rating": 4.9,
+        "calories": 600,
+        "prep_time": "40 mins",
+        "title": "Laksa Nyonya",
+        "ingredients": "Rice Vermicelli, Prawns, Fishcake, Coconut Milk, Laksa Leaves",
+        "instructions": "1. Prepare laksa broth.\n2. Add coconut milk.\n3. Blanch noodles.\n4. Garnish and serve.",
+        "description": "Spicy coconut noodle soup with prawns and fishcakes.",
+        "image_url": "https://substackcdn.com/image/fetch/$s_!yZEF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d295e92-0959-4dd8-b13b-11c5d822113f_2048x1537.jpeg",
+        "id": 5
+      },
+      {
+        "rating": 4.4,
+        "calories": 800,
+        "prep_time": "15 mins",
+        "title": "Margherita Pizza",
+        "ingredients": "Dough, Tomato Sauce, Mozzarella, Basil, Olive Oil",
+        "instructions": "1. Roll dough.\n2. Add sauce and cheese.\n3. Bake in hot oven.\n4. Top with fresh basil.",
+        "description": "Classic pizza with tomato sauce, mozzarella, and fresh basil.",
+        "image_url": "https://www.foodandwine.com/thmb/7BpSJWDh1s-2M2ooRPHoy07apq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mozzarella-pizza-margherita-FT-RECIPE0621-11fa41ceb1a5465d9036a23da87dd3d4.jpg",
+        "id": 6
+      },
+      {
+        "rating": 4.7,
+        "calories": 500,
+        "prep_time": "25 mins",
+        "title": "Pad Thai",
+        "ingredients": "Rice Noodles, Shrimp, Tofu, Tamarind, Peanuts, Lime",
+        "instructions": "1. Soak noodles.\n2. Fry tofu/shrimp.\n3. Add noodles and sauce.\n4. Stir in eggs and peanuts.",
+        "description": "Thai stir-fried rice noodles with shrimp, tofu, and peanuts.",
+        "image_url": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/7DE647CE-2E09-4CBE-88EE-CFFCC70D7440/Derivates/F8CA1C89-596A-4EC0-9A63-6505DDBD528C.jpg",
+        "id": 7
+      },
+      {
+        "rating": 4.6,
+        "calories": 250,
+        "prep_time": "20 mins",
+        "title": "Tom Yum Soup",
+        "ingredients": "Prawns, Mushrooms, Lemongrass, Galangal, Chili, Lime",
+        "instructions": "1. Boil water with herbs.\n2. Add prawns/mushrooms.\n3. Season with fish sauce/lime.\n4. Add chili paste.",
+        "description": "Spicy and sour Thai soup with prawns and lemongrass.",
+        "image_url": "https://asianinspirations.com.au/wp-content/uploads/2019/11/R00098_Seafood_Tom_Yum_Soup-2-619x412.jpg",
+        "id": 8
+      }
+    ],
+    "favourites": [
+      1,
+      7,
+      9
+    ]
+  }
+}
